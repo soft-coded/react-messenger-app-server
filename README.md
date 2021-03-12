@@ -1,7 +1,7 @@
 # React Messenger App
-A messenger app created using React.js.
+A messenger app built using react.js.
 
-This repository is one of the two required to run this app.
+This repository is one of the two required to run this app (server-version).
 
 # Tools Used
 * Node.js
